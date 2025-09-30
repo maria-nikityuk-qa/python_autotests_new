@@ -36,7 +36,7 @@
 3. Выполнить команду:
 
 Создаём виртуальное окружение внутри папки проекта.
-Далее команды для MacOS (для windows инуструкция [есть вот тут](https://realpython.com/python-virtual-environments-a-primer/#create-it))
+Далее команды для MacOS:
 
 ``` markdown
 python3 -m venv venv
